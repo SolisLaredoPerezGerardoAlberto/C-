@@ -9,7 +9,7 @@ int main ()
     cin >> n1;
     cout << "Dime otro numero: ";
     cin >> n2;
-    suma = n1 + n2;
+    suma = n1 * n2;
     cout << "Su Multiplicacion es " << Multi;
  
     return 0;
